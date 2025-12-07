@@ -10,7 +10,7 @@ import io
 # ---------------------------
 
 st.image(
-    "https://i.postimg.cc/tJq9xYC3/IMG-0520.png",
+    "https://i.postimg.cc/tJq9xYC3/IMG-0671.png",
     use_column_width=True
 )
 st.markdown(
